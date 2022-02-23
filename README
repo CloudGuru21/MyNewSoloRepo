@@ -1,0 +1,20 @@
+=============================================================================
+       __|  __|_  )
+       _|  (     /   Deep Learning Base AMI (Ubuntu 18.04) Version 48.0
+      ___|\___|___|
+=============================================================================
+
+Welcome to Ubuntu 18.04.6 LTS (GNU/Linux 5.4.0-1061-aws x86_64v)
+
+NVIDIA driver version: 450.142.00
+CUDA versions available: cuda-11.0 cuda-11.1 cuda-11.2 
+Default CUDA version is 11.0 
+Libraries: cuDNN, NCCL, Intel MKL-DNN
+
+AWS Deep Learning AMI Homepage: https://aws.amazon.com/machine-learning/amis/
+Developer Guide and Release Notes: https://docs.aws.amazon.com/dlami/latest/devguide/what-is-dlami.html
+Support: https://forums.aws.amazon.com/forum.jspa?forumID=263
+For a fully managed experience, check out Amazon SageMaker at https://aws.amazon.com/sagemaker
+When using INF1 type instances, please update regularly using the instructions at: https://github.com/aws/aws-neuron-sdk/tree/master/release-notes
+Security scan reports for python packages are located at: /opt/aws/dlami/info/
+=============================================================================
